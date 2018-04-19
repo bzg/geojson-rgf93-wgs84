@@ -1,0 +1,15 @@
+#+title: geojson-rgf93-wgs84
+
+* Usage
+
+With [[https://leiningen.org/][leiningen]] installed, clone the repository, then
+
+: ~$ cd geojson-rgf93-wgs84
+: ~$ lein run ~/my-input-file.geojson ~/my-output-file.geojson
+
+* License
+
+Copyright © 2018 Bastien Guerry
+
+Distributed under the Eclipse Public License either version 1.0 or (at
+your option) any later version.
